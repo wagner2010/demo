@@ -1,4 +1,0 @@
-toothbrush
-comb
-sunglass
-pen!!!
